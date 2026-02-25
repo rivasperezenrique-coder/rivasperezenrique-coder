@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Tu Nombre]
+# 👋 Hi, I'm [Enrique Rivas Pérez]
 
 ## 💼 SQL & Data Analyst | Python | Streamlit
 
